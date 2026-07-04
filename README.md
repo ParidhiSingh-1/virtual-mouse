@@ -2,12 +2,12 @@
 
 An AI-powered system controller using MediaPipe and OpenCV to manipulate your mouse, system volume, and screen brightness using hand gestures. Designed with a sleek CustomTkinter GUI interface.
 
-## 🛠️ Prerequisites
+## Prerequisites
 * **Operating System:** Windows (Required for `pycaw` and volume/brightness APIs)
 * **Python Version:** Python 3.8 or higher
 * A working Webcam
 
-## 🚀 How to Run the Project (For Interviewers)
+## How to Run the Project
 
 1. **Clone or Download the Project:**
    * Click the green **Code** button at the top of this page.
@@ -31,7 +31,7 @@ An AI-powered system controller using MediaPipe and OpenCV to manipulate your mo
      python main.py
      ```
 
-## 🎮 Gesture Controls
+## Gesture Controls
 * **Right Hand (Mouse Control):** 
   * Move Index Finger -> Move Cursor
   * Pinch Thumb + Index -> Left Click
