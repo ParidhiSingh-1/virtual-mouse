@@ -2,30 +2,34 @@
 
 An AI-powered system controller using MediaPipe and OpenCV to manipulate your mouse, system volume, and screen brightness using hand gestures. Designed with a sleek CustomTkinter GUI interface.
 
-## Prerequisites
-* **Operating System:** Windows (Required for `pycaw` and volume/brightness APIs)
+---
+
+## 🛠️ Prerequisites
+* **Operating System:** Windows (Required for `pycaw` and volume/brightness system APIs)
 * **Python Version:** Python 3.8 or higher
 * A working Webcam
 
-## How to Run the Project
+---
 
-1. **Clone or Download the Project:**
-   * Click the green **Code** button at the top of this page.
-   * Click **Download ZIP** and extract the folder to your computer.
+## 🚀 How to Run the Project
 
-2. **Open Terminal / Command Prompt:**
-   * Open your Command Prompt (`cmd`) and navigate to the extracted folder:
-     ```bash
-     cd path/to/extracted/virtual-mouse
-     ```
+Open your Command Prompt (`cmd`) or Terminal and copy-paste the following exact commands step by step:
 
-3. **Install Dependencies:**
+1. **Clone and Navigate to the Project:**
+   ```bash
+   # Clone the repository to your computer
+   git clone [https://github.com/ParidhiSingh-1/virtual-mouse.git](https://github.com/ParidhiSingh-1/virtual-mouse.git)
+
+   # Move exactly into the project folder
+   cd virtual-mouse
+
+2. **Install Dependencies:**
    * Run the following command to automatically install all required libraries:
      ```bash
      pip install -r requirements.txt
      ```
 
-4. **Launch the Application:**
+3. **Launch the Application:**
    * Run the script:
      ```bash
      python main.py
